@@ -6,9 +6,10 @@ A React.js frontend application for an AI chatbot designed to help military spou
 
 1. **Back-end (Python RAG service)**
    ```bash
+   pip install -r requirements.txt
    cd CHATBOT
-   source venv/bin/activate  # or `pip install -r requirements.txt`
-   python server.py          # serves FastAPI on http://localhost:8000
+   source venv/bin/activate
+   python server.py
    ```
    The chatbot endpoint is exposed at `POST /api/chat` and returns JSON with `reply` and `sources`.
 
