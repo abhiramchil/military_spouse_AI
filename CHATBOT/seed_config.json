@@ -1,0 +1,222 @@
+{
+  "defaults": {
+    "user_agent": "milspouse-rag-bot/1.0 (+contact@example.com)",
+    "rate_limit_seconds": 1.0,
+    "retry": 2,
+    "content_selectors": [
+      "main",
+      "article",
+      "#content",
+      ".content",
+      ".page-content",
+      ".entry-content"
+    ],
+    "title_selectors": [
+      "h1",
+      "header h1",
+      ".page-title",
+      "title"
+    ],
+    "date_selectors": [
+      "time[datetime]",
+      "meta[property='article:published_time']"
+    ],
+    "strip_selectors": [
+      "nav",
+      "header",
+      "footer",
+      "aside",
+      ".breadcrumbs",
+      ".sidebar",
+      ".share",
+      ".social"
+    ],
+    "extract_pdf": true
+  },
+  "seeds": [
+    {
+      "label": "Fort Moore - Newcomers",
+      "category": "relocation",
+      "url": "https://home.army.mil/moore/index.php/my-fort/newcomers",
+      "allowed_domains": ["home.army.mil"],
+      "follow_patterns": [
+        "https://home.army.mil/moore/index.php/my-fort/newcomers.*",
+        "https://home.army.mil/moore/index.php/my-fort/all-services/army-community-service.*",
+        "https://home.army.mil/moore/index.php/my-fort/all-services/army-community-service/(employment-readiness|relocation-readiness).*"
+      ],
+      "exclude_patterns": [
+        "/calendar",
+        "/events",
+        "/newsroom",
+        "\\?"
+      ],
+      "max_depth": 1,
+      "priority": 10
+    },
+    {
+      "label": "ACS - Employment Readiness",
+      "category": "career",
+      "url": "https://home.army.mil/moore/index.php/my-fort/all-services/army-community-service/employment-readiness",
+      "allowed_domains": ["home.army.mil"],
+      "follow_patterns": [
+        "https://home.army.mil/moore/index.php/my-fort/all-services/army-community-service/employment-readiness.*"
+      ],
+      "max_depth": 0,
+      "priority": 9
+    },
+    {
+      "label": "ACS - Relocation Readiness",
+      "category": "relocation",
+      "url": "https://home.army.mil/moore/index.php/my-fort/all-services/army-community-service/relocation-readiness",
+      "allowed_domains": ["home.army.mil"],
+      "max_depth": 0
+    },
+    {
+      "label": "ACS - EFMP",
+      "category": "special-needs",
+      "url": "https://home.army.mil/moore/index.php/my-fort/all-services/army-community-service/exceptional-family-member-program",
+      "allowed_domains": ["home.army.mil"],
+      "max_depth": 0
+    },
+    {
+      "label": "CYS",
+      "category": "childcare",
+      "url": "https://home.army.mil/moore/index.php/my-fort/all-services/child-and-youth-services",
+      "allowed_domains": ["home.army.mil"],
+      "max_depth": 0
+    },
+    {
+      "label": "Legal Assistance",
+      "category": "legal",
+      "url": "https://home.army.mil/moore/index.php/my-fort/all-services/legal-assistance",
+      "allowed_domains": ["home.army.mil"],
+      "max_depth": 0
+    },
+    {
+      "label": "Housing Services Office",
+      "category": "housing",
+      "url": "https://home.army.mil/moore/index.php/my-fort/all-services/housing-services-office",
+      "allowed_domains": ["home.army.mil"],
+      "max_depth": 0
+    },
+    {
+      "label": "MWR",
+      "category": "family-life",
+      "url": "https://moore.armymwr.com",
+      "allowed_domains": ["moore.armymwr.com"],
+      "follow_patterns": [
+        "https://moore.armymwr.com/(programs|downloads).*"
+      ],
+      "exclude_patterns": [
+        "/calendar",
+        "/events/\\d+"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "Martin Army Community Hospital",
+      "category": "health",
+      "url": "https://martin.tricare.mil",
+      "allowed_domains": ["martin.tricare.mil"],
+      "follow_patterns": [
+        "https://martin.tricare.mil/Patient-Resources.*",
+        "https://martin.tricare.mil/Health-Services/Mental-Health-Substance-Abuse.*"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "TRICARE East",
+      "category": "health",
+      "url": "https://www.humanamilitary.com",
+      "allowed_domains": ["www.humanamilitary.com"],
+      "follow_patterns": [
+        "https://www.humanamilitary.com/(benefits|find-care|education).*"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "Plan My Move",
+      "category": "relocation",
+      "url": "https://planmymove.militaryonesource.mil",
+      "allowed_domains": ["planmymove.militaryonesource.mil"],
+      "max_depth": 0,
+      "use_headless": true
+    },
+    {
+      "label": "SECO",
+      "category": "career",
+      "url": "https://myseco.militaryonesource.mil",
+      "allowed_domains": ["myseco.militaryonesource.mil"],
+      "max_depth": 0,
+      "use_headless": true
+    },
+    {
+      "label": "USAJOBS Spouse Hiring Path",
+      "category": "career",
+      "url": "https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/military-spouses/",
+      "allowed_domains": ["www.usajobs.gov"],
+      "max_depth": 0
+    },
+    {
+      "label": "GA Dept. of Labor",
+      "category": "career",
+      "url": "https://dol.georgia.gov",
+      "allowed_domains": ["dol.georgia.gov"],
+      "follow_patterns": [
+        "https://dol.georgia.gov/(employment|unemployment|locations).*"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "GA Futures (HOPE/State Aid)",
+      "category": "education",
+      "url": "https://www.gafutures.org",
+      "allowed_domains": ["www.gafutures.org"],
+      "follow_patterns": [
+        "https://www.gafutures.org/hope-state-aid-programs.*"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "Muscogee County Schools",
+      "category": "schools",
+      "url": "https://www.muscogee.k12.ga.us",
+      "allowed_domains": ["www.muscogee.k12.ga.us"],
+      "follow_patterns": [
+        "https://www.muscogee.k12.ga.us/(Parents|Students|Schools).*"
+      ],
+      "exclude_patterns": [
+        "/Calendar",
+        "/News"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "Columbus State University - Military",
+      "category": "education",
+      "url": "https://military.columbusstate.edu",
+      "allowed_domains": ["military.columbusstate.edu"],
+      "max_depth": 0
+    },
+    {
+      "label": "Villages of Benning",
+      "category": "housing",
+      "url": "https://www.villagesofbenning.com",
+      "allowed_domains": ["www.villagesofbenning.com"],
+      "follow_patterns": [
+        "https://www.villagesofbenning.com/(find-a-home|residents).*"
+      ],
+      "max_depth": 1
+    },
+    {
+      "label": "Columbus, GA - Residents",
+      "category": "local",
+      "url": "https://www.columbusga.gov",
+      "allowed_domains": ["www.columbusga.gov"],
+      "follow_patterns": [
+        "https://www.columbusga.gov/(Residents|Community|Public-Services).*"
+      ],
+      "max_depth": 1
+    }
+  ]
+}

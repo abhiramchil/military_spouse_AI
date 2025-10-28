@@ -1,0 +1,304 @@
+[
+  {
+    "source": "https://moore.armymwr.com",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "We are the Army's Home",
+    "fetched_at": "2025-10-27T22:52:45.698570+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/relocation-readiness-program",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Relocation Readiness Program",
+    "fetched_at": "2025-10-27T22:52:48.258835+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/survivor-outreach-services",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Survivor Outreach Services",
+    "fetched_at": "2025-10-27T22:52:49.441047+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/civilian-employment-assignment-tool-ceat",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Civilian Employment Assignment Tool (CEAT)",
+    "fetched_at": "2025-10-27T22:52:50.229841+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/parent-central",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Parent Central",
+    "fetched_at": "2025-10-27T22:52:51.410367+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/child-development-centers",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Child Care Centers, Pre-K and School Age Center",
+    "fetched_at": "2025-10-27T22:52:52.925887+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/school-support-services",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "School Support Services & Homeschools",
+    "fetched_at": "2025-10-27T22:52:54.184447+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/visitors",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Family Days & Graduations",
+    "fetched_at": "2025-10-27T22:52:55.161477+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/recycle-program",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Recycle Program",
+    "fetched_at": "2025-10-27T22:52:56.029522+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/mwr-library",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Milton E. Long Library",
+    "fetched_at": "2025-10-27T22:52:57.227225+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/veterinary-services",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Veterinary Services",
+    "fetched_at": "2025-10-27T22:52:58.049696+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/33830",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Laundromat",
+    "fetched_at": "2025-10-27T22:52:58.898501+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Programs :: Ft. Benning :: US Army MWR",
+    "fetched_at": "2025-10-27T22:53:02.264133+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/bingo",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "MWR Bingo",
+    "fetched_at": "2025-10-27T22:53:03.436964+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/bowling-centers",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Bowling Centers",
+    "fetched_at": "2025-10-27T22:53:04.712439+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/destin-army-recreation-area",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Destin Army Recreation Area",
+    "fetched_at": "2025-10-27T22:53:04.818542+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/uchee-creek-campground-and-marina",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Uchee Creek Campground & Marina",
+    "fetched_at": "2025-10-27T22:53:05.978318+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/tickets-travel-office",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Tickets & Travel Office",
+    "fetched_at": "2025-10-27T22:53:06.809840+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/fort-moore-golf-course",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Golf Course",
+    "fetched_at": "2025-10-27T22:53:07.961893+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/outdoor-recreation",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Outdoor Recreation",
+    "fetched_at": "2025-10-27T22:53:09.068850+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/hunting-fishing",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Hunting & Fishing",
+    "fetched_at": "2025-10-27T22:53:10.225617+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/parks-ponds-trails",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Parks, Ponds & Trails",
+    "fetched_at": "2025-10-27T22:53:11.525621+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/recreational-shooting-complex",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Recreational Shooting Complex",
+    "fetched_at": "2025-10-27T22:53:12.828429+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/swimming",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Swimming",
+    "fetched_at": "2025-10-27T22:53:13.989176+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/new-fort-moore",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "New to Fort Benning?",
+    "fetched_at": "2025-10-27T22:53:15.239422+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/acs/family-advocacy",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Family Advocacy Program",
+    "fetched_at": "2025-10-27T22:53:16.157168+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/family-child-care",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Family Child Care - FCC",
+    "fetched_at": "2025-10-27T22:53:17.271974+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/school-age-centers",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Child Care Centers, Pre-K and School Age Center",
+    "fetched_at": "2025-10-27T22:53:17.498293+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/school-support-services/youth-sponsorship",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Youth Sponsorship",
+    "fetched_at": "2025-10-27T22:53:18.707301+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/youth-sports",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Youth Sports & Fitness/Instructional Programs",
+    "fetched_at": "2025-10-27T22:53:20.077164+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/acs/employment-readiness-program",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Employment Readiness",
+    "fetched_at": "2025-10-27T22:53:20.921569+00:00"
+  },
+  {
+    "source": "https://moore.armymwr.com/programs/home-based-business",
+    "label": "MWR",
+    "category": "family-life",
+    "title": "Home Based Businesses",
+    "fetched_at": "2025-10-27T22:53:21.836345+00:00"
+  },
+  {
+    "source": "https://www.humanamilitary.com",
+    "label": "TRICARE East",
+    "category": "health",
+    "title": "Humana Military | TRICARE East",
+    "fetched_at": "2025-10-27T22:53:22.187745+00:00"
+  },
+  {
+    "source": "https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/military-spouses/",
+    "label": "USAJOBS Spouse Hiring Path",
+    "category": "career",
+    "title": "Untitled",
+    "fetched_at": "2025-10-27T22:53:24.726798+00:00"
+  },
+  {
+    "source": "https://dol.georgia.gov",
+    "label": "GA Dept. of Labor",
+    "category": "career",
+    "title": "Georgia Department of Labor",
+    "fetched_at": "2025-10-27T22:53:24.887969+00:00"
+  },
+  {
+    "source": "https://dol.georgia.gov/locations/career-center",
+    "label": "GA Dept. of Labor",
+    "category": "career",
+    "title": "Find a Career Center",
+    "fetched_at": "2025-10-27T22:53:26.040666+00:00"
+  },
+  {
+    "source": "https://www.gafutures.org",
+    "label": "GA Futures (HOPE/State Aid)",
+    "category": "education",
+    "title": "Georgia Student Finance Commission",
+    "fetched_at": "2025-10-27T22:53:26.178800+00:00"
+  },
+  {
+    "source": "https://www.gafutures.org/hope-state-aid-programs/",
+    "label": "GA Futures (HOPE/State Aid)",
+    "category": "education",
+    "title": "Georgia Student Finance Commission",
+    "fetched_at": "2025-10-27T22:53:27.314789+00:00"
+  },
+  {
+    "source": "https://www.muscogee.k12.ga.us",
+    "label": "Muscogee County Schools",
+    "category": "schools",
+    "title": "Home",
+    "fetched_at": "2025-10-27T22:53:27.561629+00:00",
+    "published": "2025-10-28T12:00:00-04:00"
+  },
+  {
+    "source": "https://military.columbusstate.edu",
+    "label": "Columbus State University - Military",
+    "category": "education",
+    "title": "Dedicated Service for Military-Connected Students",
+    "fetched_at": "2025-10-27T22:53:28.847919+00:00"
+  },
+  {
+    "source": "https://www.villagesofbenning.com",
+    "label": "Villages of Benning",
+    "category": "housing",
+    "title": "Elevated On-Post Living",
+    "fetched_at": "2025-10-27T22:53:29.438222+00:00"
+  },
+  {
+    "source": "https://www.villagesofbenning.com/residents",
+    "label": "Villages of Benning",
+    "category": "housing",
+    "title": "Residents",
+    "fetched_at": "2025-10-27T22:53:30.627969+00:00"
+  },
+  {
+    "source": "https://www.columbusga.gov",
+    "label": "Columbus, GA - Residents",
+    "category": "local",
+    "title": "Columbus Georgia",
+    "fetched_at": "2025-10-27T22:53:31.036091+00:00"
+  }
+]

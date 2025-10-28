@@ -1,86 +1,58 @@
-import React, { useState } from 'react';
+import React, { useMemo, useRef, useState } from 'react';
 import './App.css';
 import Header from './components/Header';
-import FilterBar from './components/FilterBar';
 import SuggestionBubbles from './components/SuggestionBubbles';
-import ChatInterface from './components/ChatInterface';
+import RagChatWidget from './components/RagChatWidget';
 import ProfileModal from './components/ProfileModal';
 
 function App() {
+  const chatRef = useRef(null);
   const [showProfileModal, setShowProfileModal] = useState(false);
-  const [filters, setFilters] = useState({
-    location: '',
-    jobType: '',
-    experience: '',
-    industry: ''
-  });
-  const [messages, setMessages] = useState([
-    {
-      id: 1,
-      type: 'bot',
-      content: 'Hello! I\'m your AI career assistant, here to help military spouses find meaningful employment opportunities. How can I assist you today?',
-      timestamp: new Date()
-    }
-  ]);
+
+  const ragApiUrl = process.env.REACT_APP_RAG_API_URL || 'http://localhost:8000/api/chat';
+  const initialChatMessages = useMemo(
+    () => [
+      {
+        type: 'bot',
+        content: 'Hello! How can I assist you today?'
+      }
+    ],
+    []
+  );
 
   const handleSuggestionClick = (suggestion) => {
     const suggestionMessages = {
-      'practice-interview': 'I\'d love to help you practice interview questions! What type of position are you interviewing for?',
-      'find-resources': 'I can help you find resources for military spouses. Are you looking for career training, education benefits, or networking opportunities?',
-      'connect-mentors': 'Connecting with mentors is a great way to advance your career. What industry or role are you interested in?',
-      'resume-help': 'I can help you improve your resume! What type of position are you targeting?',
-      'job-search': 'Let\'s find you some great job opportunities! What location and type of work are you looking for?',
-      'career-advice': 'I\'m here to provide career guidance! What specific area would you like advice on?'
+      'practice-interview': 'I have an interview coming up. Can you help me practice interview questions for my target role?',
+      'find-resources': 'What resources or programs support military spouses who want to grow their careers?',
+      'connect-mentors': 'Can you connect me with mentors in industries that value military spouse experience?',
+      'resume-help': 'Could you review my resume and suggest improvements for roles that accommodate frequent relocations?',
+      'job-search': 'I am looking for job opportunities. Please recommend roles that fit a flexible or remote lifestyle.',
+      'career-advice': 'I want career advice tailored for military spouses. Where should I start?'
     };
 
-    const newMessage = {
-      id: messages.length + 1,
-      type: 'bot',
-      content: suggestionMessages[suggestion] || 'How can I help you with that?',
-      timestamp: new Date()
-    };
-
-    setMessages(prev => [...prev, newMessage]);
+    const prompt = suggestionMessages[suggestion] || 'I would like support with my career journey as a military spouse.';
+    if (chatRef.current?.sendMessage) {
+      chatRef.current.sendMessage(prompt);
+    }
   };
 
-  const handleSendMessage = (message) => {
-    const userMessage = {
-      id: messages.length + 1,
-      type: 'user',
-      content: message,
-      timestamp: new Date()
-    };
-
-    setMessages(prev => [...prev, userMessage]);
-
-    // Simulate bot response
-    setTimeout(() => {
-      const botResponse = {
-        id: messages.length + 2,
-        type: 'bot',
-        content: 'Thank you for your message! I\'m here to help you with your career journey. How can I assist you further?',
-        timestamp: new Date()
-      };
-      setMessages(prev => [...prev, botResponse]);
-    }, 1000);
-  };
-
-  const handleFilterChange = (filterType, value) => {
-    setFilters(prev => ({
-      ...prev,
-      [filterType]: value
-    }));
-  };
+  // const handleFilterChange = (filterType, value) => {
+  //   setFilters(prev => ({
+  //     ...prev,
+  //     [filterType]: value
+  //   }));
+  // };
 
   return (
     <div className="app">
       <Header onProfileClick={() => setShowProfileModal(true)} />
-      <FilterBar filters={filters} onFilterChange={handleFilterChange} />
       <main className="main-content">
         <SuggestionBubbles onSuggestionClick={handleSuggestionClick} />
-        <ChatInterface 
-          messages={messages} 
-          onSendMessage={handleSendMessage}
+        <RagChatWidget
+          ref={chatRef}
+          apiUrl={ragApiUrl}
+          placeholder="Share your career goals, questions, or challenges..."
+          initialMessages={initialChatMessages}
         />
       </main>
       {showProfileModal && (
