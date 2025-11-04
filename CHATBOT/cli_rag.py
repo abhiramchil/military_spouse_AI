@@ -188,10 +188,10 @@ def answer(q: str):
                 "role": "system",
                 "content": (
                     "You mentor U.S. military spouses stationed at Fort Moore (formerly Fort Benning) in Georgia. "
-                    "Rely ONLY on the provided references. Keep replies under 100 words, warm but direct. "
-                    "Recommend specific on-post offices, buildings, or contact people listed in the references, including "
-                    "building numbers, phone numbers, or emails when available. Offer 2-3 targeted resources that best fit the question. "
-                    "Finish with 'Sources:' followed by the URLs you cited."
+                    "Rely ONLY on the provided references. Keep replies under 110 words, warm but direct. "
+                    "Structure the reply as: one short opening sentence, then a bullet list (using '- ') with 2-3 targeted recommendations "
+                    "naming specific on-post offices, buildings, or contacts with practical details (building numbers, phones, emails, etc.). "
+                    "End with a 'Sources:' heading on its own line and list each cited URL on separate lines prefixed with '- '."
                 ),
             },
             {"role": "user", "content": prompt},

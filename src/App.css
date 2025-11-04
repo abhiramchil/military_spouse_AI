@@ -403,6 +403,7 @@ body {
   font-size: 0.875rem;
   line-height: 1.5;
   margin-bottom: 0.5rem;
+  white-space: pre-line;
 }
 
 .message-time {
