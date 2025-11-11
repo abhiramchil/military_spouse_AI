@@ -89,6 +89,60 @@ def _chunk_text(text: str, width: int = 900) -> List[str]:
     return [chunk.strip() for chunk in chunks if chunk.strip()]
 
 
+def chunk_text(text: str, width: int = 900) -> List[str]:
+    """Public wrapper so other modules can reuse the chunking strategy."""
+    return _chunk_text(text, width)
+
+
+def ingest_chunks(
+    chunks: List[str],
+    source: str,
+    title: str,
+    label: str | None = None,
+    category: str | None = None,
+    fetched_at: str | None = None,
+) -> Dict[str, str | int]:
+    prepared_chunks = [chunk.strip() for chunk in chunks if chunk and chunk.strip()]
+    if not prepared_chunks:
+        raise RuntimeError("No readable text chunks were provided.")
+
+    if any(meta.get("source") == source for meta in metas):
+        raise ValueError("This source already exists in the knowledge base.")
+
+    embeddings = emb_model.encode(prepared_chunks, normalize_embeddings=True)
+    vectors = np.asarray(embeddings, dtype="float32")
+
+    resolved_label = label or "user-submitted"
+    resolved_category = category or "user-submitted"
+    fetched_timestamp = fetched_at or datetime.now(timezone.utc).isoformat()
+    meta_template = {
+        "source": source,
+        "label": resolved_label,
+        "category": resolved_category,
+        "title": title or source,
+        "fetched_at": fetched_timestamp,
+        "chunk_count": len(prepared_chunks),
+    }
+
+    with _write_lock:
+        if any(meta.get("source") == source for meta in metas):
+            raise ValueError("This source already exists in the knowledge base.")
+        index.add(vectors)
+        for idx, chunk in enumerate(prepared_chunks):
+            docs.append(chunk)
+            entry = dict(meta_template)
+            entry["chunk_index"] = idx
+            metas.append(entry)
+        _save_corpus()
+
+    return {
+        "url": source,
+        "title": meta_template["title"],
+        "chunks_added": len(prepared_chunks),
+        "fetched_at": fetched_timestamp,
+    }
+
+
 def ingest_url(
     url: str,
     label: str | None = None,
@@ -120,36 +174,13 @@ def ingest_url(
     if not chunks:
         raise RuntimeError("Unable to derive text chunks from the provided URL.")
 
-    embeddings = emb_model.encode(chunks, normalize_embeddings=True)
-    vectors = np.asarray(embeddings, dtype="float32")
-
-    fetched_at = datetime.now(timezone.utc).isoformat()
-    meta_template = {
-        "source": normalized_url,
-        "label": label or "user-submitted",
-        "category": category or "user-submitted",
-        "title": article["title"] or normalized_url,
-        "fetched_at": fetched_at,
-        "chunk_count": len(chunks),
-    }
-
-    with _write_lock:
-        if any(meta.get("source") == normalized_url for meta in metas):
-            raise ValueError("This URL already exists in the knowledge base.")
-        index.add(vectors)
-        for idx, chunk in enumerate(chunks):
-            docs.append(chunk)
-            entry = dict(meta_template)
-            entry["chunk_index"] = idx
-            metas.append(entry)
-        _save_corpus()
-
-    return {
-        "url": normalized_url,
-        "title": meta_template["title"],
-        "chunks_added": len(chunks),
-        "fetched_at": fetched_at,
-    }
+    return ingest_chunks(
+        chunks,
+        normalized_url,
+        article["title"] or normalized_url,
+        label,
+        category,
+    )
 
 
 def retrieve_pairs(q, k=8, threshold=0.25):

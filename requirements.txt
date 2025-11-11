@@ -120,9 +120,12 @@ pydantic_core==2.33.2
 pyee==13.0.0
 Pygments==2.19.2
 pyparsing==3.2.1
+pypdf==5.1.0
 python-dateutil==2.9.0.post0
+python-docx==1.1.2
 python-dotenv==1.1.0
 python-json-logger==4.0.0
+python-multipart==0.0.9
 pytz==2025.2
 PyYAML==6.0.3
 pyzmq==27.1.0
