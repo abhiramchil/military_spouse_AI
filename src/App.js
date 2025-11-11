@@ -21,6 +21,16 @@ function App() {
       return ragApiUrl.replace(/\/chat\/?$/, '/sources');
     }
   }, [ragApiUrl]);
+  const sourcesUploadApiUrl = useMemo(() => {
+    if (!sourcesApiUrl) return '';
+    try {
+      const parsed = new URL(sourcesApiUrl);
+      parsed.pathname = parsed.pathname.replace(/\/sources\/?$/, '/sources/upload');
+      return parsed.toString();
+    } catch {
+      return sourcesApiUrl.replace(/\/sources\/?$/, '/sources/upload');
+    }
+  }, [sourcesApiUrl]);
   const initialChatMessages = useMemo(
     () => [
       {
@@ -58,7 +68,7 @@ function App() {
     <div className="app">
       <Header onProfileClick={() => setShowProfileModal(true)} />
       <main className="main-content">
-        <SourceUploader apiUrl={sourcesApiUrl} />
+        <SourceUploader apiUrl={sourcesApiUrl} uploadApiUrl={sourcesUploadApiUrl} />
         <SuggestionBubbles onSuggestionClick={handleSuggestionClick} />
         <RagChatWidget
           ref={chatRef}

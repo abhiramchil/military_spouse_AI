@@ -1,12 +1,16 @@
 import React, { useState } from 'react';
 
-const SourceUploader = ({ apiUrl }) => {
+const SourceUploader = ({ apiUrl, uploadApiUrl }) => {
   const [url, setUrl] = useState('');
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const [error, setError] = useState(null);
-  const [result, setResult] = useState(null);
+  const [selectedFile, setSelectedFile] = useState(null);
+  const [isFileSubmitting, setIsFileSubmitting] = useState(false);
+  const [feedback, setFeedback] = useState(null);
 
-  if (!apiUrl) {
+  const hasUrlSupport = Boolean(apiUrl);
+  const hasFileSupport = Boolean(uploadApiUrl);
+
+  if (!hasUrlSupport && !hasFileSupport) {
     return null;
   }
 
@@ -16,8 +20,7 @@ const SourceUploader = ({ apiUrl }) => {
     if (!trimmed || isSubmitting) return;
 
     setIsSubmitting(true);
-    setError(null);
-    setResult(null);
+    setFeedback(null);
 
     try {
       const response = await fetch(apiUrl, {
@@ -32,12 +35,49 @@ const SourceUploader = ({ apiUrl }) => {
         throw new Error(detail);
       }
 
-      setResult(payload);
+      setFeedback({ type: 'success', message: `Added ${payload.title} (${payload.chunks_added} sections indexed).` });
       setUrl('');
     } catch (err) {
-      setError(err.message || 'Something went wrong while adding the source.');
+      setFeedback({ type: 'error', message: err.message || 'Something went wrong while adding the source.' });
     } finally {
       setIsSubmitting(false);
+    }
+  };
+
+  const handleFileChange = (event) => {
+    setSelectedFile(event.target.files?.[0] || null);
+  };
+
+  const handleFileSubmit = async (event) => {
+    event.preventDefault();
+    if (!selectedFile || !uploadApiUrl || isFileSubmitting) return;
+
+    const formElement = event.currentTarget;
+    setIsFileSubmitting(true);
+    setFeedback(null);
+
+    const formData = new FormData();
+    formData.append('file', selectedFile);
+
+    try {
+      const response = await fetch(uploadApiUrl, {
+        method: 'POST',
+        body: formData
+      });
+
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        const detail = typeof payload?.detail === 'string' ? payload.detail : 'Unable to add that file right now.';
+        throw new Error(detail);
+      }
+
+      setFeedback({ type: 'success', message: `Uploaded ${payload.title} (${payload.chunks_added} sections indexed).` });
+      setSelectedFile(null);
+      formElement.reset();
+    } catch (err) {
+      setFeedback({ type: 'error', message: err.message || 'Something went wrong while uploading the file.' });
+    } finally {
+      setIsFileSubmitting(false);
     }
   };
 
@@ -45,33 +85,49 @@ const SourceUploader = ({ apiUrl }) => {
     <div className="source-uploader">
       <div className="source-uploader__header">
         <h3>Add Your Own Resource</h3>
-        <p>Paste a public URL to expand the knowledge base. Fresh sources become searchable immediately.</p>
+        <p>Share a public URL or upload a PDF/text file to expand the knowledge base. Fresh sources become searchable immediately.</p>
       </div>
-      <form className="source-uploader__form" onSubmit={handleSubmit}>
-        <input
-          type="url"
-          placeholder="https://example.mil/resource"
-          value={url}
-          onChange={(event) => setUrl(event.target.value)}
-          className="source-uploader__input"
-          required
-        />
-        <button
-          type="submit"
-          className="source-uploader__button"
-          disabled={!url.trim() || isSubmitting}
-        >
-          {isSubmitting ? 'Adding…' : 'Add Source'}
-        </button>
-      </form>
-      {result && (
-        <div className="source-uploader__status success">
-          Added <strong>{result.title}</strong> ({result.chunks_added} sections indexed).
-        </div>
+      {hasUrlSupport && (
+        <form className="source-uploader__form" onSubmit={handleSubmit}>
+          <input
+            type="url"
+            placeholder="https://example.mil/resource"
+            value={url}
+            onChange={(event) => setUrl(event.target.value)}
+            className="source-uploader__input"
+            required
+          />
+          <button
+            type="submit"
+            className="source-uploader__button"
+            disabled={!url.trim() || isSubmitting}
+          >
+            {isSubmitting ? 'Adding…' : 'Add URL'}
+          </button>
+        </form>
       )}
-      {error && (
-        <div className="source-uploader__status error">
-          {error}
+
+      {hasFileSupport && (
+        <form className="source-uploader__form" onSubmit={handleFileSubmit}>
+          <input
+            type="file"
+            accept=".pdf,.txt,.md,.rtf"
+            onChange={handleFileChange}
+            className="source-uploader__input"
+          />
+          <button
+            type="submit"
+            className="source-uploader__button"
+            disabled={!selectedFile || isFileSubmitting}
+          >
+            {isFileSubmitting ? 'Uploading…' : 'Upload File'}
+          </button>
+        </form>
+      )}
+
+      {feedback && (
+        <div className={`source-uploader__status ${feedback.type}`}>
+          {feedback.message}
         </div>
       )}
     </div>
