@@ -4,301 +4,1765 @@
     "label": "MWR",
     "category": "family-life",
     "title": "We are the Army's Home",
-    "fetched_at": "2025-10-27T22:52:45.698570+00:00"
+    "fetched_at": "2025-11-04T16:36:42.025796+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/relocation-readiness-program",
     "label": "MWR",
     "category": "family-life",
     "title": "Relocation Readiness Program",
-    "fetched_at": "2025-10-27T22:52:48.258835+00:00"
+    "fetched_at": "2025-11-04T16:36:44.571449+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/survivor-outreach-services",
     "label": "MWR",
     "category": "family-life",
     "title": "Survivor Outreach Services",
-    "fetched_at": "2025-10-27T22:52:49.441047+00:00"
+    "fetched_at": "2025-11-04T16:36:45.690888+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/civilian-employment-assignment-tool-ceat",
     "label": "MWR",
     "category": "family-life",
     "title": "Civilian Employment Assignment Tool (CEAT)",
-    "fetched_at": "2025-10-27T22:52:50.229841+00:00"
+    "fetched_at": "2025-11-04T16:36:46.329804+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/parent-central",
     "label": "MWR",
     "category": "family-life",
     "title": "Parent Central",
-    "fetched_at": "2025-10-27T22:52:51.410367+00:00"
+    "fetched_at": "2025-11-04T16:36:47.332731+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/child-development-centers",
     "label": "MWR",
     "category": "family-life",
     "title": "Child Care Centers, Pre-K and School Age Center",
-    "fetched_at": "2025-10-27T22:52:52.925887+00:00"
+    "fetched_at": "2025-11-04T16:36:48.603566+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/school-support-services",
     "label": "MWR",
     "category": "family-life",
     "title": "School Support Services & Homeschools",
-    "fetched_at": "2025-10-27T22:52:54.184447+00:00"
+    "fetched_at": "2025-11-04T16:36:49.832239+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/visitors",
     "label": "MWR",
     "category": "family-life",
     "title": "Family Days & Graduations",
-    "fetched_at": "2025-10-27T22:52:55.161477+00:00"
+    "fetched_at": "2025-11-04T16:36:50.719522+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/recycle-program",
     "label": "MWR",
     "category": "family-life",
     "title": "Recycle Program",
-    "fetched_at": "2025-10-27T22:52:56.029522+00:00"
+    "fetched_at": "2025-11-04T16:36:51.696534+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/mwr-library",
     "label": "MWR",
     "category": "family-life",
     "title": "Milton E. Long Library",
-    "fetched_at": "2025-10-27T22:52:57.227225+00:00"
+    "fetched_at": "2025-11-04T16:36:52.859249+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/veterinary-services",
     "label": "MWR",
     "category": "family-life",
     "title": "Veterinary Services",
-    "fetched_at": "2025-10-27T22:52:58.049696+00:00"
+    "fetched_at": "2025-11-04T16:36:53.734184+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/33830",
     "label": "MWR",
     "category": "family-life",
     "title": "Laundromat",
-    "fetched_at": "2025-10-27T22:52:58.898501+00:00"
+    "fetched_at": "2025-11-04T16:36:54.666136+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs",
     "label": "MWR",
     "category": "family-life",
     "title": "Programs :: Ft. Benning :: US Army MWR",
-    "fetched_at": "2025-10-27T22:53:02.264133+00:00"
+    "fetched_at": "2025-11-04T16:36:58.224137+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/bingo",
     "label": "MWR",
     "category": "family-life",
     "title": "MWR Bingo",
-    "fetched_at": "2025-10-27T22:53:03.436964+00:00"
+    "fetched_at": "2025-11-04T16:36:59.586793+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/bowling-centers",
     "label": "MWR",
     "category": "family-life",
     "title": "Bowling Centers",
-    "fetched_at": "2025-10-27T22:53:04.712439+00:00"
+    "fetched_at": "2025-11-04T16:37:01.136610+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/destin-army-recreation-area",
     "label": "MWR",
     "category": "family-life",
     "title": "Destin Army Recreation Area",
-    "fetched_at": "2025-10-27T22:53:04.818542+00:00"
+    "fetched_at": "2025-11-04T16:37:01.541599+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/uchee-creek-campground-and-marina",
     "label": "MWR",
     "category": "family-life",
     "title": "Uchee Creek Campground & Marina",
-    "fetched_at": "2025-10-27T22:53:05.978318+00:00"
+    "fetched_at": "2025-11-04T16:37:01.809092+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/tickets-travel-office",
     "label": "MWR",
     "category": "family-life",
     "title": "Tickets & Travel Office",
-    "fetched_at": "2025-10-27T22:53:06.809840+00:00"
+    "fetched_at": "2025-11-04T16:37:02.708655+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/fort-moore-golf-course",
     "label": "MWR",
     "category": "family-life",
     "title": "Golf Course",
-    "fetched_at": "2025-10-27T22:53:07.961893+00:00"
+    "fetched_at": "2025-11-04T16:37:03.895223+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/outdoor-recreation",
     "label": "MWR",
     "category": "family-life",
     "title": "Outdoor Recreation",
-    "fetched_at": "2025-10-27T22:53:09.068850+00:00"
+    "fetched_at": "2025-11-04T16:37:04.005453+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/hunting-fishing",
     "label": "MWR",
     "category": "family-life",
     "title": "Hunting & Fishing",
-    "fetched_at": "2025-10-27T22:53:10.225617+00:00"
+    "fetched_at": "2025-11-04T16:37:05.100343+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/parks-ponds-trails",
     "label": "MWR",
     "category": "family-life",
     "title": "Parks, Ponds & Trails",
-    "fetched_at": "2025-10-27T22:53:11.525621+00:00"
+    "fetched_at": "2025-11-04T16:37:06.356070+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/recreational-shooting-complex",
     "label": "MWR",
     "category": "family-life",
     "title": "Recreational Shooting Complex",
-    "fetched_at": "2025-10-27T22:53:12.828429+00:00"
+    "fetched_at": "2025-11-04T16:37:07.690016+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/swimming",
     "label": "MWR",
     "category": "family-life",
     "title": "Swimming",
-    "fetched_at": "2025-10-27T22:53:13.989176+00:00"
+    "fetched_at": "2025-11-04T16:37:08.908173+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/new-fort-moore",
     "label": "MWR",
     "category": "family-life",
     "title": "New to Fort Benning?",
-    "fetched_at": "2025-10-27T22:53:15.239422+00:00"
+    "fetched_at": "2025-11-04T16:37:09.911913+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/acs/family-advocacy",
     "label": "MWR",
     "category": "family-life",
     "title": "Family Advocacy Program",
-    "fetched_at": "2025-10-27T22:53:16.157168+00:00"
+    "fetched_at": "2025-11-04T16:37:10.963562+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/family-child-care",
     "label": "MWR",
     "category": "family-life",
     "title": "Family Child Care - FCC",
-    "fetched_at": "2025-10-27T22:53:17.271974+00:00"
+    "fetched_at": "2025-11-04T16:37:12.454048+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/school-age-centers",
     "label": "MWR",
     "category": "family-life",
     "title": "Child Care Centers, Pre-K and School Age Center",
-    "fetched_at": "2025-10-27T22:53:17.498293+00:00"
+    "fetched_at": "2025-11-04T16:37:12.925940+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/school-support-services/youth-sponsorship",
     "label": "MWR",
     "category": "family-life",
     "title": "Youth Sponsorship",
-    "fetched_at": "2025-10-27T22:53:18.707301+00:00"
+    "fetched_at": "2025-11-04T16:37:14.413614+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/youth-sports",
     "label": "MWR",
     "category": "family-life",
     "title": "Youth Sports & Fitness/Instructional Programs",
-    "fetched_at": "2025-10-27T22:53:20.077164+00:00"
+    "fetched_at": "2025-11-04T16:37:15.875780+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/acs/employment-readiness-program",
     "label": "MWR",
     "category": "family-life",
     "title": "Employment Readiness",
-    "fetched_at": "2025-10-27T22:53:20.921569+00:00"
+    "fetched_at": "2025-11-04T16:37:16.808451+00:00"
   },
   {
     "source": "https://moore.armymwr.com/programs/home-based-business",
     "label": "MWR",
     "category": "family-life",
     "title": "Home Based Businesses",
-    "fetched_at": "2025-10-27T22:53:21.836345+00:00"
+    "fetched_at": "2025-11-04T16:37:17.826431+00:00"
   },
   {
     "source": "https://www.humanamilitary.com",
     "label": "TRICARE East",
     "category": "health",
     "title": "Humana Military | TRICARE East",
-    "fetched_at": "2025-10-27T22:53:22.187745+00:00"
+    "fetched_at": "2025-11-04T16:37:18.245885+00:00"
   },
   {
     "source": "https://www.usajobs.gov/help/working-in-government/unique-hiring-paths/military-spouses/",
     "label": "USAJOBS Spouse Hiring Path",
     "category": "career",
     "title": "Untitled",
-    "fetched_at": "2025-10-27T22:53:24.726798+00:00"
+    "fetched_at": "2025-11-04T16:37:21.251906+00:00"
   },
   {
     "source": "https://dol.georgia.gov",
     "label": "GA Dept. of Labor",
     "category": "career",
     "title": "Georgia Department of Labor",
-    "fetched_at": "2025-10-27T22:53:24.887969+00:00"
+    "fetched_at": "2025-11-04T16:37:21.588600+00:00"
   },
   {
     "source": "https://dol.georgia.gov/locations/career-center",
     "label": "GA Dept. of Labor",
     "category": "career",
     "title": "Find a Career Center",
-    "fetched_at": "2025-10-27T22:53:26.040666+00:00"
+    "fetched_at": "2025-11-04T16:37:22.756651+00:00"
   },
   {
     "source": "https://www.gafutures.org",
     "label": "GA Futures (HOPE/State Aid)",
     "category": "education",
     "title": "Georgia Student Finance Commission",
-    "fetched_at": "2025-10-27T22:53:26.178800+00:00"
+    "fetched_at": "2025-11-04T16:37:22.988285+00:00"
   },
   {
     "source": "https://www.gafutures.org/hope-state-aid-programs/",
     "label": "GA Futures (HOPE/State Aid)",
     "category": "education",
     "title": "Georgia Student Finance Commission",
-    "fetched_at": "2025-10-27T22:53:27.314789+00:00"
+    "fetched_at": "2025-11-04T16:37:24.111560+00:00"
   },
   {
     "source": "https://www.muscogee.k12.ga.us",
     "label": "Muscogee County Schools",
     "category": "schools",
     "title": "Home",
-    "fetched_at": "2025-10-27T22:53:27.561629+00:00",
-    "published": "2025-10-28T12:00:00-04:00"
+    "fetched_at": "2025-11-04T16:37:24.362973+00:00",
+    "published": "2025-11-03T00:00:00-05:00"
   },
   {
     "source": "https://military.columbusstate.edu",
     "label": "Columbus State University - Military",
     "category": "education",
     "title": "Dedicated Service for Military-Connected Students",
-    "fetched_at": "2025-10-27T22:53:28.847919+00:00"
+    "fetched_at": "2025-11-04T16:37:25.853649+00:00"
   },
   {
     "source": "https://www.villagesofbenning.com",
     "label": "Villages of Benning",
     "category": "housing",
     "title": "Elevated On-Post Living",
-    "fetched_at": "2025-10-27T22:53:29.438222+00:00"
+    "fetched_at": "2025-11-04T16:37:27.068022+00:00"
   },
   {
     "source": "https://www.villagesofbenning.com/residents",
     "label": "Villages of Benning",
     "category": "housing",
     "title": "Residents",
-    "fetched_at": "2025-10-27T22:53:30.627969+00:00"
+    "fetched_at": "2025-11-04T16:37:28.476884+00:00"
   },
   {
     "source": "https://www.columbusga.gov",
     "label": "Columbus, GA - Residents",
     "category": "local",
     "title": "Columbus Georgia",
-    "fetched_at": "2025-10-27T22:53:31.036091+00:00"
+    "fetched_at": "2025-11-04T16:37:29.341511+00:00"
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 0
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 1
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 2
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 3
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 4
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 5
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 6
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 7
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 8
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 9
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 10
+  },
+  {
+    "source": "https://www.todaysmilitary.com/careers-benefits/explore-careers",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Military Jobs & Career Options | Today’s Military",
+    "fetched_at": "2025-11-04T19:32:56.983984+00:00",
+    "chunk_count": 12,
+    "chunk_index": 11
+  },
+  {
+    "source": "https://www.youtube.com/",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "YouTube",
+    "fetched_at": "2025-11-04T20:03:15.090133+00:00",
+    "chunk_count": 1,
+    "chunk_index": 0
+  },
+  {
+    "source": "https://benning.armymwr.com/",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Fort Benning - US Army MWR",
+    "fetched_at": "2025-11-04T20:15:23.562293+00:00",
+    "chunk_count": 3,
+    "chunk_index": 0
+  },
+  {
+    "source": "https://benning.armymwr.com/",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Fort Benning - US Army MWR",
+    "fetched_at": "2025-11-04T20:15:23.562293+00:00",
+    "chunk_count": 3,
+    "chunk_index": 1
+  },
+  {
+    "source": "https://benning.armymwr.com/",
+    "label": "user-submitted",
+    "category": "user-submitted",
+    "title": "Fort Benning - US Army MWR",
+    "fetched_at": "2025-11-04T20:15:23.562293+00:00",
+    "chunk_count": 3,
+    "chunk_index": 2
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 0
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 1
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 2
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 3
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 4
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 5
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 6
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 7
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 8
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 9
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 10
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 11
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 12
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 13
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 14
+  },
+  {
+    "source": "uploaded://cf2afcdba6aa/HW7CATTIENLE.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "HW7CATTIENLE.pdf",
+    "fetched_at": "2025-11-11T17:52:58.634311+00:00",
+    "chunk_count": 16,
+    "ingest_type": "file",
+    "file_name": "HW7CATTIENLE.pdf",
+    "chunk_index": 15
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 0
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 1
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 2
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 3
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 4
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 5
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 6
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 7
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 8
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 9
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 10
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 11
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 12
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 13
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 14
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 15
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 16
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 17
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 18
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 19
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 20
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 21
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 22
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 23
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 24
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 25
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 26
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 27
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 28
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 29
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 30
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 31
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 32
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 33
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 34
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 35
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 36
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 37
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 38
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 39
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 40
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 41
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 42
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 43
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 44
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 45
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 46
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 47
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 48
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 49
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 50
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 51
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 52
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 53
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 54
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 55
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 56
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 57
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 58
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 59
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 60
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 61
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 62
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 63
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 64
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 65
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 66
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 67
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 68
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 69
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 70
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 71
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 72
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 73
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 74
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 75
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 76
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 77
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 78
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 79
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 80
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 81
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 82
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 83
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 84
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 85
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 86
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 87
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 88
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 89
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 90
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 91
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 92
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 93
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 94
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 95
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 96
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 97
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 98
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 99
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 100
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 101
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 102
+  },
+  {
+    "source": "uploaded://7f42c68457e8/20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "label": "uploaded-file",
+    "category": "uploaded-file",
+    "title": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "fetched_at": "2025-11-11T17:57:18.803348+00:00",
+    "chunk_count": 104,
+    "ingest_type": "file",
+    "file_name": "20240520 Fort Moore Regulation 210-5 eff 1 May 2024.pdf",
+    "chunk_index": 103
   }
 ]
